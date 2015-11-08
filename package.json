@@ -1,0 +1,31 @@
+{
+  "name": "zsh",
+  "version": "1.0.0",
+  "description": "zsh-isms for node (expansion, globbing, etc)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mralexgray/zsh.git"
+  },
+  "keywords": [
+    "zsh",
+    "shell",
+    "glob",
+    "expansion",
+    "paramter",
+    "ls",
+    "regex",
+    "fs",
+    "file",
+    "unix"
+  ],
+  "author": "Alex Gray <alex@mrgray.com> (http://mrgray.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mralexgray/zsh/issues"
+  },
+  "homepage": "https://github.com/mralexgray/zsh#readme"
+}
